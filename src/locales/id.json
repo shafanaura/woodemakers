@@ -1,0 +1,187 @@
+{
+  "seo": {
+    "title": "WoodeMakers — Sandaran Pergelangan Kayu",
+    "description": "Sandaran pergelangan tangan dari kayu solid yang ergonomis dan dibuat tangan di Indonesia. Tersedia ukuran 60%, 65%, 75%, TKL, dan 100%. Pilihan jati & pinus dengan finishing polyurethane matte dan alas anti‑selip.",
+    "ogTitle": "WoodeMakers — Sandaran Pergelangan Kayu",
+    "ogDescription": "Sandaran pergelangan kayu ergonomis buatan Indonesia. Ukuran 60%, 65%, 75%, TKL, dan 100%."
+  },
+  "common": {
+    "brand": "WoodeMakers",
+    "madeInIndonesia": "Buatan Indonesia",
+    "features": "Fitur",
+    "variants": "Varian",
+    "pricing": "Harga",
+    "whereToBuy": "Beli di Mana",
+    "faq": "FAQ",
+    "currency": "IDR"
+  },
+  "hero": {
+    "tagline": "Ergonomis • Buatan Tangan • Kayu Solid",
+    "headline": "Sandaran Pergelangan Kayu",
+    "description": "Dirancang untuk menjaga postur pergelangan tetap ergonomis selama sesi mengetik panjang—meminimalkan ketegangan dan kelelahan. Pilihan kayu jati (gelap) dan pinus (terang), finishing polyurethane matte, dan alas karet anti‑selip untuk kenyamanan hangat yang stabil dan tahan lama.",
+    "ctaShop": "Beli Sekarang",
+    "ctaVariants": "Lihat Varian",
+    "imageAlt": "Sandaran pergelangan kayu di meja bersama keyboard mekanis",
+    "imageCaption": "WoodeMakers — Sandaran Pergelangan Kayu"
+  },
+  "imageLightbox": {
+    "openFullscreen": "Buka layar penuh {alt}",
+    "zoomOut": "Perkecil",
+    "zoomIn": "Perbesar",
+    "reset": "Reset"
+  },
+  "feature": {
+    "title": "Kenapa Memilih Wrist Rest Kami?",
+    "subtitle": "Estetika alami berpadu fungsi ergonomis untuk produktivitas nyaman.",
+    "items": {
+      "ergonomic": {
+        "title": "Kenyamanan Ergonomis",
+        "desc": "Mendukung sudut pergelangan yang natural untuk mengurangi ketegangan."
+      },
+      "solidWood": {
+        "title": "Kayu Solid Premium",
+        "desc": "Pilihan jati (gelap) dan pinus (terang) dengan serat alami dan finishing matte."
+      },
+      "antiSlip": {
+        "title": "Stabil Anti‑Selip",
+        "desc": "Bagian bawah karet menjaga wrist rest tetap stabil di berbagai permukaan."
+      },
+      "sizes": {
+        "title": "Banyak Ukuran",
+        "desc": "Tersedia untuk layout 60%, 65%, 75%, TKL, dan Full‑size."
+      }
+    }
+  },
+  "variants": {
+    "title": "Varian Produk",
+    "subtitle": "Pilih finishing—setiap potongan memiliki serat alami unik.",
+    "names": {
+      "darkTwoTone": "Dua Nada Gelap",
+      "lightTwoTone": "Dua Nada Terang",
+      "lightTone": "Nada Terang",
+      "darkTone": "Nada Gelap"
+    },
+    "descriptions": {
+      "darkTwoTone": "Sandaran pergelangan dua nada gelap dengan serat kayu jati yang kaya dan aksen pinus halus",
+      "lightTwoTone": "Sandaran pergelangan dua nada terang dengan tepi membulat dan detail garis",
+      "lightTone": "Sandaran pergelangan nada terang dengan finishing polyurethane",
+      "darkTone": "Sandaran pergelangan nada gelap dalam penggunaan menunjukkan sudut ergonomis"
+    },
+    "buy": {
+      "shopee": "Shopee",
+      "tokopedia": "Tokopedia",
+      "tiktok": "TikTok Shop",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "variantsGrid": {
+    "title": "Pilih Varian Anda",
+    "subtitle": "Empat finishing buatan tangan untuk sesuai setup dan gaya mengetik Anda."
+  },
+  "sizeGuide": {
+    "title": "Panduan Ukuran",
+    "subtitle": "Pilih panjang ideal untuk layout keyboard Anda.",
+    "items": {
+      "p60": {
+        "title": "60% (30 cm)",
+        "desc": "Papan ringkas; sejajar dengan area tombol huruf."
+      },
+      "p65_75": {
+        "title": "65%–75% (31–33 cm)",
+        "desc": "Cocok untuk layout dengan tombol panah dan kolom tambahan."
+      },
+      "tkl": {
+        "title": "TKL (36 cm)",
+        "desc": "Tanpa numpad; memberi ruang untuk tangan mouse."
+      },
+      "full": {
+        "title": "Full-size (46 cm)",
+        "desc": "Menutup lebar numpad untuk keyboard 100%."
+      }
+    }
+  },
+  "details": {
+    "title": "Detail Produk",
+    "subtitle": "Jelajahi kualitas rakitan dan fitur kenyamanan yang membuatnya berbeda.",
+    "items": {
+      "size": {
+        "title": "Ukuran & Profil",
+        "desc": "Kedalaman 8 cm dan tinggi 1,7 cm untuk sudut pergelangan netral dan stabil.",
+        "alt": "Close-up dengan dimensi 8 cm dan 1,7 cm"
+      },
+      "finishing": {
+        "title": "Finishing Premium",
+        "desc": "Dilindungi polyurethane dari Propan Indonesia untuk daya tahan lama.",
+        "alt": "Finishing Polyurethane dari Propan Indonesia"
+      },
+      "curvature": {
+        "title": "Lengkung Nyaman",
+        "desc": "Tepi atas yang dihaluskan dan sudut membulat untuk kontak telapak yang nyaman.",
+        "alt": "Tepi membulat dan profil terukur"
+      },
+      "material": {
+        "title": "Pilihan Kayu Keras",
+        "desc": "Kombinasi kayu Jati dan Pinus untuk kekuatan dan estetika hangat.",
+        "alt": "Komposisi kayu Jati dan Pinus"
+      },
+      "nonSlip": {
+        "title": "Alas Anti‑Selip",
+        "desc": "Pad silikon bertekstur menjaga posisi—tanpa geser, tanpa goyah.",
+        "alt": "Bagian bawah pad silikon anti‑selip"
+      },
+      "ergonomics": {
+        "title": "Dukungan Ergonomis",
+        "desc": "Mendukung sudut pergelangan netral—mengetik, bermain, dan rileks lebih nyaman.",
+        "alt": "Perbandingan sudut pergelangan ergonomis"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Harga",
+    "dimension": "Dimensi (Lebar × Kedalaman × Tinggi): 46 × 8 × 1,7 cm",
+    "sizesPrices": "Ukuran & Harga — {variant}",
+    "note": "Harga dapat berbeda sesuai pilihan kayu dan finishing. Bagikan daftar harga tiap varian untuk memperbarui bagian ini."
+  },
+  "where": {
+    "title": "Beli di Mana",
+    "subtitle": "Pesan dari marketplace favorit atau hubungi kami untuk permintaan khusus.",
+    "visit": "Kunjungi {name}",
+    "official": "Listing toko resmi untuk Sandaran Pergelangan Kayu."
+  },
+  "videos": {
+    "title": "Tonton Produk Saat Digunakan",
+    "subtitle": "Lihat cuplikan nyata dari YouTube, TikTok, dan Instagram.",
+    "youtube": {
+      "title": "Ulasan YouTube",
+      "desc": "Ganti dengan video YouTube Anda."
+    },
+    "tiktok": {
+      "title": "Klip TikTok",
+      "desc": "Embed memerlukan URL posting. Kami sarankan tautan ke aplikasi untuk performa.",
+      "cta": "Tonton di TikTok"
+    },
+    "instagram": {
+      "title": "Instagram Reel",
+      "desc": "Tautkan ke Reel atau Post Anda. Embed sering memerlukan skrip eksternal.",
+      "cta": "Lihat di Instagram"
+    }
+  },
+  "testimonials": {
+    "title": "Kata Mereka",
+    "subtitle": "Ulasan terpilih dari Tokopedia, Shopee, TikTok Shop, dan lainnya.",
+    "source": "Sumber: ulasan marketplace"
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "q1": "Kayu dan finishing apa yang digunakan?",
+    "a1": "Jati (nada gelap) dan pinus (nada terang). Finishing polyurethane matte—tahan lama dan tahan air, dengan nuansa hangat alami.",
+    "q2": "Bagaimana cara perawatannya?",
+    "a2": "Lap dengan kain kering atau sedikit lembap. Tidak perlu minyak khusus—finishing polyurethane melindungi kayu untuk penggunaan bertahun-tahun.",
+    "q3": "Ukuran apa saja yang tersedia?",
+    "a3": "Pilihan untuk layout 60%, 65%, 75%, TKL, dan Full‑size. Pastikan ukur panjang keyboard Anda (dalam cm) agar pas.",
+    "q4": "Bisakah saya pesan panjang custom?",
+    "a4": "Bisa. Kami menerima pesanan custom secara pre‑order (~7 hari). Hubungi kami via WhatsApp untuk konfirmasi.",
+    "q5": "Kapan jadwal pengiriman?",
+    "a5": "Pesanan sebelum 12:00 (GMT+7) dikirim di hari yang sama; setelah 12:00 dikirim keesokan hari. Pesanan setelah Sabtu 12:00 dikirim pada Senin."
+  }
+}

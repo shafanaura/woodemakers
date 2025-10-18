@@ -1,0 +1,187 @@
+{
+  "seo": {
+    "title": "WoodeMakers — Wooden Wrist Rest",
+    "description": "Ergonomic solid-wood wrist rest handcrafted in Indonesia. Sizes for 60%, 65%, 75%, TKL, and 100%. Teak & pine options with matte polyurethane finish and anti-slip base.",
+    "ogTitle": "WoodeMakers — Wooden Wrist Rest",
+    "ogDescription": "Ergonomic solid-wood wrist rest handcrafted in Indonesia. Sizes for 60%, 65%, 75%, TKL, and 100%."
+  },
+  "common": {
+    "brand": "WoodeMakers",
+    "madeInIndonesia": "Made in Indonesia",
+    "features": "Features",
+    "variants": "Variants",
+    "pricing": "Pricing",
+    "whereToBuy": "Where to Buy",
+    "faq": "FAQ",
+    "currency": "IDR"
+  },
+  "hero": {
+    "tagline": "Ergonomic • Handcrafted • Solid Wood",
+    "headline": "Wooden Wrist Rest",
+    "description": "Designed to keep your wrist posture ergonomic during long typing sessions—minimizing strain and fatigue. Solid teak (dark tone) and pine (light tone) options, polyurethane matte finish, and a rubber anti‑slip base for stable, warm, and durable comfort.",
+    "ctaShop": "Shop Now",
+    "ctaVariants": "See Variants",
+    "imageAlt": "Wooden wrist rest on a desk with a mechanical keyboard",
+    "imageCaption": "WoodeMakers — Wooden Wrist Rest"
+  },
+  "imageLightbox": {
+    "openFullscreen": "Open fullscreen of {alt}",
+    "zoomOut": "Zoom out",
+    "zoomIn": "Zoom in",
+    "reset": "Reset"
+  },
+  "feature": {
+    "title": "Why Choose Our Wrist Rest?",
+    "subtitle": "Natural aesthetics meet ergonomic function for comfortable productivity.",
+    "items": {
+      "ergonomic": {
+        "title": "Ergonomic Comfort",
+        "desc": "Supports a natural wrist angle to reduce tension during long typing sessions."
+      },
+      "solidWood": {
+        "title": "Premium Solid Wood",
+        "desc": "Teak (dark) and pine (light) options with unique natural grain and matte polyurethane finish."
+      },
+      "antiSlip": {
+        "title": "Anti‑Slip Stability",
+        "desc": "Rubber underside keeps the wrist rest steady on different desk surfaces."
+      },
+      "sizes": {
+        "title": "Multiple Sizes",
+        "desc": "Available for 60%, 65%, 75%, TKL, and Full‑size layouts."
+      }
+    }
+  },
+  "variants": {
+    "title": "Product Variants",
+    "subtitle": "Pick your finish—each piece has unique natural grain.",
+    "names": {
+      "darkTwoTone": "Dark Two Tone",
+      "lightTwoTone": "Light Two Tone",
+      "lightTone": "Light Tone",
+      "darkTone": "Dark Tone"
+    },
+    "descriptions": {
+      "darkTwoTone": "Dark Two Tone wrist rest with rich teak wood grain and subtle pine accents",
+      "lightTwoTone": "Light Two Tone wrist rest showing rounded edges and stripe detail",
+      "lightTone": "Light tone wrist rest with polyurethane finishing",
+      "darkTone": "Dark tone wrist rest in use showing ergonomic angle"
+    },
+    "buy": {
+      "shopee": "Shopee",
+      "tokopedia": "Tokopedia",
+      "tiktok": "TikTok Shop",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "variantsGrid": {
+    "title": "Choose Your Variant",
+    "subtitle": "Four handcrafted finishes to match your setup and typing style."
+  },
+  "sizeGuide": {
+    "title": "Size Guide",
+    "subtitle": "Pick the ideal length for your keyboard layout.",
+    "items": {
+      "p60": {
+        "title": "60% (30 cm)",
+        "desc": "Compact boards; aligns with alpha keys footprint."
+      },
+      "p65_75": {
+        "title": "65%–75% (31–33 cm)",
+        "desc": "Fits layouts with arrows and extra columns."
+      },
+      "tkl": {
+        "title": "TKL (36 cm)",
+        "desc": "Tenkeyless; leaves space for mouse hand."
+      },
+      "full": {
+        "title": "Full-size (46 cm)",
+        "desc": "Covers numpad width for 100% keyboards."
+      }
+    }
+  },
+  "details": {
+    "title": "Product Details",
+    "subtitle": "Explore the build quality and comfort features that make this wrist rest stand out.",
+    "items": {
+      "size": {
+        "title": "Size & Profile",
+        "desc": "Balanced 8 cm depth and 1.7 cm height for a neutral wrist angle and stable base.",
+        "alt": "Close-up with dimensions 8 cm and 1.7 cm"
+      },
+      "finishing": {
+        "title": "Premium Finishing",
+        "desc": "Protected with polyurethane from Propan Indonesia for long-lasting durability.",
+        "alt": "Finishing with Polyurethane from Propan Indonesia"
+      },
+      "curvature": {
+        "title": "Comfort Curvature",
+        "desc": "Smoothed top edges and rounded corners for a comfortable palm contact.",
+        "alt": "Rounded edges and crafted profile"
+      },
+      "material": {
+        "title": "Hardwood Selection",
+        "desc": "Crafted with a combination of Teak and Pine for strength and warm aesthetics.",
+        "alt": "Composition of Teak and Pine woods"
+      },
+      "nonSlip": {
+        "title": "Non-slip Base",
+        "desc": "Textured silicone pads keep your wrist rest firmly in place—no slide, no wobble.",
+        "alt": "Bottom non-slip silicone pads close-up"
+      },
+      "ergonomics": {
+        "title": "Ergonomic Support",
+        "desc": "Promotes a neutral wrist angle—type, play, and relax with better comfort.",
+        "alt": "Ergonomic wrist angle comparison"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "dimension": "Dimension (Width × Depth × Height): 46 × 8 × 1.7 cm",
+    "sizesPrices": "Sizes & Prices — {variant}",
+    "note": "Prices may vary by wood selection and finish. Share your price list for each variant to update these fields."
+  },
+  "where": {
+    "title": "Where to Buy",
+    "subtitle": "Order from your favorite marketplace or message us directly for custom requests.",
+    "visit": "Visit {name}",
+    "official": "Official store listing for Wooden Wrist Rest."
+  },
+  "videos": {
+    "title": "Watch the Product in Action",
+    "subtitle": "See real-world clips from YouTube, TikTok, and Instagram.",
+    "youtube": {
+      "title": "YouTube Review",
+      "desc": "Replace with your real YouTube video."
+    },
+    "tiktok": {
+      "title": "TikTok Clip",
+      "desc": "Embed requires a post URL. We recommend linking out for performance.",
+      "cta": "Watch on TikTok"
+    },
+    "instagram": {
+      "title": "Instagram Reel",
+      "desc": "Link to your Reel or Post. Embeds often require external scripts.",
+      "cta": "View on Instagram"
+    }
+  },
+  "testimonials": {
+    "title": "What They Say",
+    "subtitle": "Selected reviews from Tokopedia, Shopee, TikTok Shop, and other marketplaces.",
+    "source": "Source: marketplace reviews"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "What wood and finish are used?",
+    "a1": "Solid teak (dark tone) and pine (light tone). Finished with matte polyurethane—durable and water‑resistant, with a warm, natural feel.",
+    "q2": "How do I care for it?",
+    "a2": "Wipe with a dry or slightly damp cloth. No special oiling needed—the polyurethane finish protects the wood for years of use.",
+    "q3": "Which sizes are available?",
+    "a3": "Options for 60%, 65%, 75%, TKL, and Full‑size layouts. Please measure your keyboard length (in cm) to ensure a perfect fit.",
+    "q4": "Can I request a custom length?",
+    "a4": "Yes. We accept custom orders on a pre‑order basis (~7 days). Contact us via WhatsApp to confirm details.",
+    "q5": "What is your shipping schedule?",
+    "a5": "Orders before 12:00 (GMT+7) ship the same day; after 12:00 ship the next day. Orders after Saturday 12:00 ship on Monday."
+  }
+}
